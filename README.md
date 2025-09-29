@@ -14,12 +14,6 @@
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusandrade906\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandrade906\&layout=compact\&theme=radical)
 
 ---
 
