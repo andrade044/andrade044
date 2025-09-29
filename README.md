@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Matheus Andrade
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-🚦 Instrutor e gerente geral na área de trânsito
 💻 Apaixonado por **tecnologia, dados e desenvolvimento de sistemas**
 
 ---
