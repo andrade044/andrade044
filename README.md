@@ -17,6 +17,16 @@
 
 ---
 
+
+## 📊 Estatísticas do GitHub  
+
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusandrade906&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandrade906&layout=compact&theme=radical)
+
+
+---
+
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-andrade-6b86a9210)
