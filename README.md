@@ -19,9 +19,9 @@
 
 
 
-🌟 Repositórios públicos: 3
+🌟 Repositórios públicos: 2
 
-📌 Repositórios em destaque: Sistema Biblioteca, Calculadora, Análise de Dados
+📌 Repositórios em destaque: Gerenciamento de alunos , Calculadora
 
 💻 Tecnologias que mais uso: Python, SQL, Streamlit
 
