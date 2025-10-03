@@ -21,7 +21,7 @@
 
 🌟 Repositórios públicos: 3
 
-📌 Repositórios em destaque: Sistema Biblioteca, GPON, Análise de Dados
+📌 Repositórios em destaque: Sistema Biblioteca, Calculadora, Análise de Dados
 
 💻 Tecnologias que mais uso: Python, SQL, Streamlit
 
