@@ -18,6 +18,14 @@
 ---
 
 
+📊 Minhas estatísticas
+🌟 Repositórios públicos: 6
+📌 Repositórios em destaque: Sistema Biblioteca, GPON, Análise de Dados
+💻 Tecnologias que mais uso: Python, SQL, Streamlit
+🎯 Objetivo atual: Criar portfólio profissional e consolidar aprendizado
+
+
+---
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-andrade-6b86a9210)
