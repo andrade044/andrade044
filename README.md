@@ -22,10 +22,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-andrade-6b86a9210)
 
-📧 **Email:** [matheusandrade906@gmail.com](mailto:matheusandrade906@gmail.com)
-
-📱 **Telefone:** (69) 99382-4035
-
 ---
 
 ✨ “Sempre aprendendo, sempre evoluindo.”
