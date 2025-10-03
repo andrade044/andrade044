@@ -18,10 +18,13 @@
 ---
 
 
-📊 Minhas estatísticas
-🌟 Repositórios públicos: 6
+
+🌟 Repositórios públicos: 3
+
 📌 Repositórios em destaque: Sistema Biblioteca, GPON, Análise de Dados
+
 💻 Tecnologias que mais uso: Python, SQL, Streamlit
+
 🎯 Objetivo atual: Criar portfólio profissional e consolidar aprendizado
 
 
