@@ -1,10 +1,11 @@
-## 👋 Olá! Seja bem-vindo(a) ao meu perfil  
+##  Olá! Seja bem-vindo(a) ao meu perfil  
 
 Sou apaixonado por tecnologia e estou em constante aprendizado para evoluir como desenvolvedor.  
 
 ---
 
 ### 📌 Repositórios em destaque  
+- **Curso online**  
 - **Gerenciamento de Alunos**  
 - **Calculadora**  
 
