@@ -18,6 +18,8 @@ Sou apaixonado por tecnologia e estou em constante aprendizado para evoluir como
 ---
 
 ### 📚 Bibliotecas que utilizo com frequência  
+- **OpenCV**
+- **MediaPipe**
 - **Pandas**  
 - **SQLAlchemy**  
 - **Streamlit Authenticator**  
