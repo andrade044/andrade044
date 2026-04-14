@@ -5,6 +5,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado para evoluir como
 ---
 
 ### 📌 Repositórios em destaque  
+- **Workout analytics**
 - **Curso online**  
 - **Gerenciamento de Alunos**  
 - **Calculadora**  
